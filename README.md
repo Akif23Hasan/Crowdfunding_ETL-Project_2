@@ -5,6 +5,7 @@ Welcome to the Crowdfunding ETL project! In this project, we are working with Ex
 1) Python v3.10.9
 2) Pandas 
 3) Numpy
+4) Datetime
 
 
 ## Repository Setup
@@ -13,9 +14,9 @@ The renamed Jupyter notebook file (ETL_Mini_Project_Starter_Code.ipynb)
 The "Resources" folder containing the following files:
 * crowdfunding.xlsx
 * contacts.xlsx
-* contact.csv
+* contacts.csv
 * category.csv
-* sub-category.csv 
+* subcategory.csv 
 * campaign.csv
 
 ## Category and Subcategory DataFrames
